@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BekRhoades but you can call me Becky!
-- 👀 I’m interested in ... folk music and gardening!
-- 🌱 I’m currently learning ... GitHub! WOOT WOOT! 
-- 💞️ I’m looking to collaborate on ...Best practices around GitHub
+- 👀 I’m interested in folk music, 60/70's pop music and sewing!
+- 🌱 I’m currently learning zipper stiches and the semiotics of rock music! 
 - 📫 How to reach me ...email is best! bekrhoades@gmail.com
 
 <!---
